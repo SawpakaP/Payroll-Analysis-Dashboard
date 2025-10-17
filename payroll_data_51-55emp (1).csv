@@ -1,0 +1,6 @@
+EmployeeID,FullName,Department,Country,JobLevel,Grade,MonthlyIncome,Bonus,Active,ManagerID,JoinDate
+E051,Ryan Cooper,Finance,India,4,A,9200,800,TRUE,M003,10/4/22
+E052,Priya Sharma,IT,USA,4,B,8800,750,TRUE,M002,15/9/21
+E053,David Thompson,HR,UK,4,A,9100,900,TRUE,M001,25/1/23
+E054,Fatima Khan,Marketing,India,4,B,8950,850,TRUE,M004,30/6/20
+E055,Arjun Mehta,Operations,USA,4,A,9400,950,TRUE,M005,5/11/22
